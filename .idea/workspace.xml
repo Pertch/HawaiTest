@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b770ba05-858c-416a-ba0a-19199d044ffb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AnkapTest.class" afterPath="$PROJECT_DIR$/target/test-classes/AnkapTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -262,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519469034483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Addin distributionManager to pom.xml">
+      <created>1519469715274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519469715274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -310,7 +315,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding chromeDriver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding chromeDriver" />
+    <MESSAGE value="Addin distributionManager to pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addin distributionManager to pom.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -364,7 +370,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding />
         </state>
       </provider>
