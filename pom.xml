@@ -23,4 +23,17 @@
 
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>central</id>
+            <name>Ucraft-Appricode repostitery</name>
+            <url>https://github.com/Pertch/HawaiTest</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>plugin-snapshot</name>
+            <url>https://github.com/Pertch/HawaiTest</url>
+        </snapshotRepository>
+    </distributionManagement>
+
 </project>
