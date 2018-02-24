@@ -8,7 +8,7 @@ import java.net.URL;
 public class AnkapTest {
     @Test
     public void FirstJenkinsTest() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Joe\\Desktop\\Automation\\Delivery\\drivers\\chromedriver.exe" );
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe" );
         WebDriver driver = new ChromeDriver();
         driver.get("https://google.ru");
     }
