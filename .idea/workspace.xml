@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b770ba05-858c-416a-ba0a-19199d044ffb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestJenkins/FIile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestJenkins/File" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Dummy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Fiile.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/jp" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +21,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="File" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestJenkins/File">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fiile.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Fiile.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/jp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FIile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestJenkins/FIile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dummy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Dummy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,6 +112,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -70,6 +130,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/AnkapTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Fiile.fxml" />
       </list>
     </option>
   </component>
@@ -115,6 +176,13 @@
               <item name="TestJenkins" type="462c0819:PsiDirectoryNode" />
               <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HawaiTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HawaiTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestJenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,6 +190,9 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -313,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519637347392</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding TestJenkins folder">
+      <created>1519637356854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1519637356854</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -359,6 +437,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="C:\Users\Joe\workspace\jenkins\HawaiTest" />
+    </ignored-roots>
     <MESSAGE value="Adding chromeDriver" />
     <MESSAGE value="Addin distributionManager to pom.xml" />
     <MESSAGE value="Adding TestJenkins folder" />
@@ -439,10 +520,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Dummy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestJenkins/File">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/Fiile.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestJenkins/Jenkins/1.0-SNAPSHOT/jp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestJenkins/FIile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
