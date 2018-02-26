@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b770ba05-858c-416a-ba0a-19199d044ffb" name="Default" comment="">
+    <list default="true" id="b770ba05-858c-416a-ba0a-19199d044ffb" name="Default" comment="Adding TestJenkins folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Jenkins-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestJenkins/FIile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TestJenkins/File" afterPath="" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,17 +23,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="34" column="97" lean-forward="false" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJenkins/File">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -122,19 +115,6 @@
               <item name="HawaiTest" type="462c0819:PsiDirectoryNode" />
               <item name="TestJenkins" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HawaiTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HawaiTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TestJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HawaiTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HawaiTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TestJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,6 +125,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Ucraft code\HawaiTest\TestJenkins\Jenkins" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -350,7 +335,28 @@
       <option name="project" value="LOCAL" />
       <updated>1519638484529</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding TestJenkins folder">
+      <created>1519639041909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1519639041909</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding TestJenkins folder">
+      <created>1519639846435</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1519639846435</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding TestJenkins folder">
+      <created>1519639956582</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1519639956582</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -525,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="34" column="97" lean-forward="false" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
+          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
           <folding />
         </state>
       </provider>
