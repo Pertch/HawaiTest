@@ -32,7 +32,7 @@
         <snapshotRepository>
             <id>snapshots</id>
             <name>plugin-snapshot</name>
-            <url>https://github.com/Pertch/HawaiTest</url>
+            <url>https://github.com/Pertch/HawaiTest/tree/master/TestJenkins/Jenkins/1.0-SNAPSHOT</url>
         </snapshotRepository>
     </distributionManagement>
 
